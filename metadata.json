@@ -1,0 +1,6 @@
+{
+  "name": "The Tier-1 Mindset",
+  "description": "Track DSA patterns, core CS concepts, and software engineering interview readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
